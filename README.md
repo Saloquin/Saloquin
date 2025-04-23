@@ -12,10 +12,12 @@ Student in IT in France
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saloquin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![image](https://github.com/user-attachments/assets/c0410633-9223-4119-8091-b3bda3d2fb2a)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saloquin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saloquin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
